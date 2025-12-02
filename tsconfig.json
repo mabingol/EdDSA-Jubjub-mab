@@ -8,5 +8,5 @@
     "moduleResolution": "NodeNext",
     "resolveJsonModule": true
   },
-  "include": ["src/**/*.ts", "test/**/*.ts"]
+  "include": ["packages/typescript/src/**/*.ts", "packages/typescript/tests/**/*.ts"]
 }
